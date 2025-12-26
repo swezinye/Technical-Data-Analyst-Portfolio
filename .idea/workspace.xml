@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31ba8e4a-6715-4d69-881e-4ced420a8da4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project6/PJ6_test_MMcPriorityQueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project7/PJ7_test_bbanalyze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project7/bbanalyze.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32HrddiH0UrxkDsOMoTqr0mBXyR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for Project3.test_queues_sz.TestQueuingFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Project3.test_queues_sz.TestQueuingFunctions.test_is_valid_basic_cases.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in PJ6_MG1Queue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in PJ6_test_BaseQueue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in PJ6_test_MD1Queue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in PJ6_test_MG1Queue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in PJ6_test_MM1Queue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in PJ6_test_MMcPriorityQueue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in PJ6_test_MMcQueue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in regress_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_BaseQueue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_MD1Queue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_MG1Queue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_MM1Queue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_MMcPriorityQueue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_MMcQueue.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_queues.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_queues_sz.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BUS449A_SweZin_Ye_Project1_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BaseQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class_wrok.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MD1Queue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MG1Queue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MM1Queue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MMcPriorityQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MMcQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PJ7_test_bbanalyze.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Procedural Programming.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Project1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bbanalyze.executor&quot;: &quot;Run&quot;,
+    &quot;Python.check_baseball_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pois.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pois_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pois_tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.queues.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regress_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_pois.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_regress.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/swezi/OneDrive - University of Portland/BUS449/PyCharm/PythonProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.test_pois">
+    <configuration name="test_pois" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/MSOTM/Fall 2025/BUS 449/TestRun" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/MSOTM/Fall 2025/BUS 449/TestRun/test_pois.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_regress" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/MSOTM/Fall 2025/BUS 449/TestRun/Project2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/MSOTM/Fall 2025/BUS 449/TestRun/Project2/test_regress.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Project3.test_queues_sz.TestQueuingFunctions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Project3.test_queues_sz.TestQueuingFunctions&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Project3.test_queues_sz.TestQueuingFunctions.test_is_valid_basic_cases" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Project3.test_queues_sz.TestQueuingFunctions.test_is_valid_basic_cases&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_pois" />
+        <item itemvalue="Python tests.Python tests for Project3.test_queues_sz.TestQueuingFunctions.test_is_valid_basic_cases" />
+        <item itemvalue="Python tests.Python tests for Project3.test_queues_sz.TestQueuingFunctions" />
+        <item itemvalue="Python.test_regress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31ba8e4a-6715-4d69-881e-4ced420a8da4" name="Changes" comment="" />
+      <created>1757088428247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757088428247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Project6/test_MMcPriorityQueue.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/../Class_Work/pandas.ipynb</url>
+          <line>102</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/../Class_Work/pandas.ipynb</url>
+          <line>188</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

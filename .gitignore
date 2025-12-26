@@ -1,0 +1,21 @@
+# Python junk - ignores all __pycache__ folders in all 10 projects
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments - if you create a 'venv' in any folder, it is ignored
+venv/
+env/
+.venv/
+
+# Testing junk
+.pytest_cache/
+report.html
+
+# Excel/Data junk (if you open CSVs in Excel)
+~$*.xlsx
+.DS_Store
+Thumbs.db
+
+# Security
+.env
