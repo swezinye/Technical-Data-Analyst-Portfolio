@@ -1,14 +1,16 @@
 Data Science & Software Engineering Portfolio
 This portfolio represents a comprehensive collection of 10 Python-based projects. Each project demonstrates a core pillar of modern data science: mathematical modeling, software architecture, automated data engineering (ETL), cloud API integration, and statistical visualization.
 
-📑 Table of Contents
 ## 📑 Table of Contents
 1. [Project 10: COVID-19 Data Visualization](./Project%2010/)
 2. [Project 09: TomTom API Integration](./Project9/)
 3. [Project 08: ETL & Data Wrangling](./Project_08_ETL_Wrangling/)
 4. [Project 07: Baseball Data Analysis](./Project_07_Baseball/)
 5. [Project 05-06: Object-Oriented Queuing Library](./Project_05_06_OOP_Queuing_Library/)
-6. [Project 01-04: Mathematical & Procedural Logic](#project-01-04-mathematical--procedural-logic)
+6. [Project 04: Queuing Theory](./Project%204_Queuing_Theory/)
+7. [Project 03: Queuing Theory](./Project%203_Queuing_Theory/)
+8. [Project 02: Linear Statistical Regression (LSR)](./Project%202_LSR/)
+9. [Project 01: Poisson Distribution Analysis](./Project%201_Poisson/)
 
 Core Technical Stack
 
